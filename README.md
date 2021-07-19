@@ -6,9 +6,10 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmeg&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmeg&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
