@@ -26,21 +26,21 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmeg&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmeg&layout=compact&show_icons=true&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=nesmeg&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=nesmeg&show_icons=true&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=64B2FFFF&hide_title=true&count_private=true" />
     </td>
   </tr>
 </table>
 
 <p align="center"> 
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=nesmeg&theme=gotham&hide_border=true&border=000000&background=00000000&ring=63D8FF&sideNums=64B2FF&currStreakNum=1ADD65&fire=1ADD65&currStreakLabel=1ADD65&stroke=0AA3FF00&sideLabels=64B2FF&dates=FFFFFF" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nesmeg&theme=gotham&hide_border=true&border=000000&background=00000000&ring=63D8FF&sideNums=64B2FF&currStreakNum=1ADD65&fire=1ADD65&currStreakLabel=1ADD65&stroke=0AA3FF00&sideLabels=64B2FF&dates=9f9f9f" />
   
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Nesmeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nesmeg&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nesmeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nesmeg&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 <p align="center"> 
