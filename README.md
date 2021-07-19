@@ -21,8 +21,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 </p>
 
-## 📊 Github stats
-
+<h3 align="center"> 📊 Github stats </h3>
+<br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -41,5 +41,6 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Nesmeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nesmeg&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nesmeg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nesmeg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
