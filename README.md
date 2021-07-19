@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sergio Gonzalez</h1>
+<h1 align="center">Hi 👋, I'm Sergio Gonzalez <img src="https://komarev.com/ghpvc/?username=nesmeg&label=Profile%20views&color=0e75b6&style=flat" alt="nesmeg" /></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nesmeg&label=Profile%20views&color=0e75b6&style=flat" alt="nesmeg" /> </p>
+<p align="left">  </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesmeg&no-frame=true&theme=monokai&no-bg=true&row=1" alt="nesmeg" /></a> </p>
 
