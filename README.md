@@ -41,6 +41,5 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nesmeg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nesmeg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nesmeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nesmeg&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
