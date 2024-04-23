@@ -21,7 +21,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
-
+<!--
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -32,7 +32,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <p align="center"> 
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nesmeg&theme=gotham&hide_border=true&border=000000&background=00000000&ring=63D8FF&sideNums=64B2FF&currStreakNum=1ADD65&fire=1ADD65&currStreakLabel=1ADD65&stroke=0AA3FF00&sideLabels=64B2FF&dates=9f9f9f" />
   
